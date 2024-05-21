@@ -1,4 +1,4 @@
-# Data Mining Course - Project 3: Advanced Decision Tree Analysis and Model Comparison
+# Project 3: Advanced Decision Tree Analysis and Model Comparison
 
 ## Overview
 This project involves advanced decision tree analysis, Bayesian classification, computational complexity analysis, and model comparison.
