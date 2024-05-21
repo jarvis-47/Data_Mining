@@ -1,4 +1,4 @@
-# Data Mining Course - Project 4: Comprehensive Data Mining Techniques
+# Project 4: Comprehensive Data Mining Techniques
 
 ## Overview
 This project involves a comprehensive application of various data mining techniques to analyze and interpret complex datasets.
