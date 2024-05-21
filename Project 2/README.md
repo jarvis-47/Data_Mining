@@ -1,4 +1,4 @@
-Project 2: Advanced Data Analysis
+# Project 2: Advanced Data Analysis
 
 ## Overview
 This project builds on the concepts from the first project and involves more advanced data analysis techniques.
